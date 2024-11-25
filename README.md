@@ -23,13 +23,13 @@
 Vmess: 
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/v2ray-for-deepnote/main/deep.sh && bash deep.sh
+wget -N https://raw.githubusercontent.com/haige-look/v2ray-for-deepnote/main/deep.sh && bash deep.sh
 ```
 
 Vless:
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/v2ray-for-deepnote/main/deep-vless.sh && bash deep-vless.sh
+wget -N https://raw.githubusercontent.com/haige-look/v2ray-for-deepnote/main/deep-vless.sh && bash deep-vless.sh
 ```
 
 * 节点配置如下
